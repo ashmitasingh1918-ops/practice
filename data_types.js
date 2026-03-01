@@ -47,3 +47,11 @@ console.log("Value:", studentProfile, "| Type:", typeof studentProfile);
 let techStack = ["C++", "Java", "JavaScript"];
 console.log("Value:", techStack, "| Type:", typeof techStack); 
 // Note: typeof array is also "object" in JS!
+
+
+let a="10";
+let b=5;
+console.log(a+b);
+console.log(a-b);
+console.log(typeof (a+b));
+console.log(typeof (a-b));
